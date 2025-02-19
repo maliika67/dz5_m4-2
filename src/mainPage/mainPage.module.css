@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.input{
+    color: #08086a;
+    background: #c9a8e4;
+    border-radius: 7px;
+
+}
+.button{
+    color: #630808;
+    background: rgba(202, 204, 209, 0.2);
+    border-radius: 7px;
+}
